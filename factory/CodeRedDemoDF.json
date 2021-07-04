@@ -1,9 +1,4 @@
 {
 	"name": "CodeRedDemoDF",
-	"location": "westeurope",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "6e553be2-95d4-4da3-919f-72d904d850c1",
-		"tenantId": "48eea21b-1daa-43fb-8767-a2441487dc1d"
-	}
+	"location": "westeurope"
 }
